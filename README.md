@@ -1,4 +1,4 @@
-```
+
 # 🎨 WP Personalization Kit 🚀
 
 Welcome to the WP Personalization Kit repository! This repository contains a collection of tools, including both themes and plugins, aimed at enhancing and personalizing the WordPress experience.
