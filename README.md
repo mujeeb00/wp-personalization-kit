@@ -14,7 +14,7 @@ To get started with the WP Personalization Kit, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/wp-personalization-kit.git
+   git clone https://github.com/mujeeb00/wp-personalization-kit.git
    ```
 2. Dowanload Xamp or Local and Install the WordPress site.
 3. Customize the settings according to your preferences.
